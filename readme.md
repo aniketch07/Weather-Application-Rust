@@ -57,8 +57,8 @@ When you run the application and enter a city name (e.g., "London"), you should 
 ```
 Enter the city name:
 London
----------------------------------------------------------------------------------------------------------------------------------
-| City: Budapest | Temprature: 294.4 | feels like: 293.81 | Wind Speed: 5.14 | Humidity: 47 | Weather Description: clear sky
----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+| Temperature: 10.24°C | Feels Like: 9.56°C | Weather Description: Clear sky | Wind Speed: 3.09 |
+---------------------------------------------------------------------------------------------------------
 ```
 This will display the current temperature, "feels like" temperature, weather description, and wind speed for the entered city.
